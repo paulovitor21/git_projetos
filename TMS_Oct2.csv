@@ -1,0 +1,5 @@
+NumeroNotaFiscal,DataEmissao,NomeDestinatario,EnderecoDestinatario,NumeroRastreamento,Transportadora,StatusEnvio,DataEntregaPrevista,DataEntregaReal,Observacoes,valor do frete,ValorImpostos,ValorTotal
+12345,29/10/2023,João Silva,Rua da Amostra,ABC1234,Transportadora A,Enviado,05/11/2023,,,"$123,456,789.00",10.0,200.0
+12345,30/10/2023,João Silva,Rua da Amostra,ABC1235,Transportadora A,Enviado,06/11/2023,,,"$123,456,789.01",10.01,200.01
+12345,31/10/2023,João Silva,Rua da Amostra,ABC1236,Transportadora A,Enviado,07/11/2023,,,"$123,456,789.02",10.02,200.02
+12345,01/11/2023,João Silva,Rua da Amostra,ABC1237,Transportadora A,Enviado,08/11/2023,,,"$123,456,789.03",10.03,200.03
